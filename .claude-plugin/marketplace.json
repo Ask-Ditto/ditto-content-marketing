@@ -1,0 +1,32 @@
+{
+  "name": "ditto-content-marketing",
+  "description": "Generate research-backed blog articles, infographics, social threads, and 4 more content formats from a single research study. Narrative arc question framework, SEO/GEO optimisation, content building block extraction, and an always-on content calendar (20-40 articles/month). Uses Ditto's 300K+ AI personas.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ditto (Ask Ditto Inc.)",
+    "email": "support@askditto.io"
+  },
+  "homepage": "https://askditto.io/claude-code-guide",
+  "repository": "https://github.com/Ask-Ditto/ditto-content-marketing",
+  "license": "MIT",
+  "keywords": [
+    "content-marketing",
+    "blog-articles",
+    "research-content",
+    "seo",
+    "geo-optimisation",
+    "infographic",
+    "social-media",
+    "content-pipeline",
+    "synthetic-personas",
+    "ditto"
+  ],
+  "category": "research",
+  "tags": [
+    "research",
+    "content-marketing",
+    "seo",
+    "content-strategy",
+    "api-integration"
+  ]
+}
